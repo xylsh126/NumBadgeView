@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+     <declare-styleable name="NumBadgeView">  
+        <attr name="bvMinWidth" format="dimension" />  
+        <attr name="bvMinHeight" format="dimension"/>  
+        <attr name="bvBackgroundColor" format="color"/>
+        <attr name="bvIsAlwaysCircleBg" format="boolean"/>
+        <attr name="bvIsCirclePointMode" format="boolean"/>
+        <attr name="bvCirclePointWidth" format="dimension" />  
+        <attr name="bvCirclePointHeight" format="dimension"/>
+        
+    </declare-styleable>
+    
+</resources>
